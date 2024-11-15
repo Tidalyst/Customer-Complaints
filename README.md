@@ -19,7 +19,8 @@ The objective of the project include :
 
 5. Provide evidence-based recommendations to policymakers and stakeholders to address high food prices, enhance diet affordability, and improve public health outcomes. 
 
-**Key Findings **
+
+**Key Findings**
 
 1.Nepal’s daily cost of a healthy diet is significantly higher than in neighboring countries like India and China.
 
@@ -28,6 +29,7 @@ The objective of the project include :
 3.Rising food prices were not primarily driven by inflation, but rather by a declining agricultural workforce.
 
 4.The shift away from agriculture reduced food production, contributing to the increased cost of a healthy diet.
+
 
 **Recommendation**
 
